@@ -752,7 +752,7 @@ footer{
     padding: 10px;
 }
 .main.active{
-    height: 220vh;
+    height: 1000vh;
     transition:all 0.8s ease;
 } 
 .cart{
