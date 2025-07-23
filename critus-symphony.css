@@ -585,7 +585,7 @@ span{
     }
     .main{
     width: 90%;
-    height: 220vh;
+    height: auto;
     /* border: 2px solid black; */
     margin: 0 auto;
     display: flex;
