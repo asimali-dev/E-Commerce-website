@@ -752,8 +752,8 @@ footer{
     padding: 10px;
 }
 .main.active{
-    height: 1000vh;
-    transition:all 0.8s ease;
+    height: 300vh;
+    transition:all 0.4s ease;
 } 
 .cart{
     width: 65%;
