@@ -68,7 +68,7 @@ nav li:hover .line{
     padding-bottom: 20px;
 }
 .main.active{
-    height: 140vh;
+    height: 150vh;
     transition:all 0.8s ease;
 }
 .critus-symphony-img{
